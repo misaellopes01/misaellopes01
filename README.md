@@ -9,7 +9,7 @@
 ![alt text](https://img.shields.io/badge/Java-474A8A?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitHub-E34F26?style=for-the-badge&logo=github&logoColor=white)
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![alt text](https://img.shields.io/badge/Node.Js-00FF00?style=for-the-badge&logo=node.js&logoColor=white)
+![alt text](https://img.shields.io/badge/Node.Js-004E00?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## 📖 O que estou em aprendendo / estudando
