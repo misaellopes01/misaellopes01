@@ -17,4 +17,8 @@
 ![alt text](https://img.shields.io/badge/Node.Js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![alt text](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
+
+
+## 🔍 Where You Can Find Me
+
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misaellopes01/) [![Foo](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/misael.lopes.0) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misaellopes01/) [![Foo](https://img.shields.io/badge/FrontendMentor-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.frontendmentor.io/profile/misaellopes01)
