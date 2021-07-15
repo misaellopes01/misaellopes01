@@ -12,8 +12,8 @@
 ![alt text](https://img.shields.io/badge/Node.Js-004E00?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## 📖 O que estou em aprendendo / estudando
+## 📖 What I'm Learning / Evolving
 
 ![alt text](https://img.shields.io/badge/Node.Js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript.js&logoColor=white)
