@@ -22,3 +22,5 @@
 ## 🔍 Where You Can Find Me
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misaellopes01/) [![Foo](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=0077B5)](https://www.facebook.com/misael.lopes.0) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misaellopes01/) [![Foo](https://img.shields.io/badge/FrontendMentor-3B83BD?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/misaellopes01)
+
+<img  height='172'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=misaellopes01&layout=compact&theme=react'> <img  height='172'  src='https://github-readme-stats.vercel.app/api?username=misaellopes01&show_icons=true&theme=react'>
