@@ -9,12 +9,11 @@
 ![alt text](https://img.shields.io/badge/Java-474A8A?style=for-the-badge&logo=mysql&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitHub-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![alt text](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=mysql&logoColor=white)
+![alt text](https://img.shields.io/badge/Node.Js-474A8A?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 📖 O que estou em aprendendo / estudando
 
 ![alt text](https://img.shields.io/badge/Node.Js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![alt text](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=next.js&logoColor=white)
