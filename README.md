@@ -10,8 +10,8 @@
 ![alt text](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![alt text](https://img.shields.io/badge/Java-474A8A?style=for-the-badge&logo=java&logoColor=white)
-![alt text](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=c++&logoColor=white)
-![alt text](https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=c++&logoColor=black)
+![alt text](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![alt text](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
