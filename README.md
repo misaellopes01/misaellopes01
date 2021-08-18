@@ -8,6 +8,7 @@
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![alt text](https://img.shields.io/badge/Node.Js-004E00?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![alt text](https://img.shields.io/badge/Postgres-3B83BD?style=for-the-badge&logo=postgres&logoColor=black)
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![alt text](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -20,7 +21,7 @@
 ![alt text](https://img.shields.io/badge/Node.Js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-
+![alt text](https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgres&logoColor=white)
 
 ## 🔍 Where You Can Find Me
 
