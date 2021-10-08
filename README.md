@@ -1,4 +1,4 @@
-# Hi there 👋 - I'm Misael Lopes, 20 years old. I'm a Developer
+# Hi there 👋 - I'm Misael Lopes, 20 years old. I'm a Developer, Computer Technician and Attending 4th year of Management Informatics Engineering!
 
 ## 🛠 Technologies
 
