@@ -19,12 +19,12 @@
 
 ## 📖 What I'm Learning / Mastering
 
-![alt text](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![alt text](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgres&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=orm&logoColor=white)
-![alt text](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=reactjs&logoColor=white)
+![alt text](https://img.shields.io/badge/React.JS-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ## 🔍 Where You Can Find Me
 
