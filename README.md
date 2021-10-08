@@ -24,6 +24,7 @@
 ![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgres&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=orm&logoColor=white)
+![alt text](https://img.shields.io/badge/React.Js-000000?style=for-the-badge&logo=react.js&logoColor=white)
 
 ## 🔍 Where You Can Find Me
 
