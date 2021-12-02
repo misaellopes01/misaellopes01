@@ -40,4 +40,4 @@
 
 <img  height='175'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=misaellopes01&layout=compact&theme=react'> <img  height='175'  src='https://github-readme-stats.vercel.app/api?username=misaellopes01&show_icons=true&theme=react'>
  
-## ::rocket NeverStopLearning
+## :rocket NeverStopLearning
