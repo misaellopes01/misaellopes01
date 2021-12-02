@@ -30,6 +30,7 @@
 ![alt text](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=orm&logoColor=white)
 ![alt text](https://img.shields.io/badge/React.JS-000000?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=reactnative&logoColor=white)
 
 ## 🔍 Where You Can Find Me
 
