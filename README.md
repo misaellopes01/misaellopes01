@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Misael Lopes, 20 years old.<br />Developer 💻<br />Computer Technician 🛠️<br />4th year student of Management Informatics Engineering ⚙️
+# 👋 Hi there! I'm Misael Lopes.<br />Developer 💻<br />Computer Technician 🛠️<br />4th year student of Management Informatics Engineering ⚙️
 
 ![javascript](https://user-images.githubusercontent.com/66078558/144392810-8532960d-cc45-4c22-9ec2-a1b4112b15fd.gif)
 #
