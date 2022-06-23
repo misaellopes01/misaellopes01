@@ -22,7 +22,7 @@
 
 
 
-## 📖 What I'm Learning / Mastering
+## 📖 Actually Skills / Working With / Mastering
 
 ![alt text](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
