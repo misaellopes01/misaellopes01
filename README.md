@@ -2,8 +2,20 @@
 
 ![javascript](https://user-images.githubusercontent.com/66078558/144392810-8532960d-cc45-4c22-9ec2-a1b4112b15fd.gif)
 #
-## 🛠 Technologies
 
+## 📖 Actually Skills / Working With / Mastering
+
+![alt text](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![alt text](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![alt text](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=orm&logoColor=white)
+![alt text](https://img.shields.io/badge/React.JS-000000?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/ReactNative-000000?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/PrismaORM-000000?style=for-the-badge&logo=prisma&logoColor=white)
+
+
+## 🛠 Technologies
 
 
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,17 +32,6 @@
 
 ![full-stack-development](https://user-images.githubusercontent.com/66078558/144394516-90321964-32ac-489b-8652-957ae7f5ce04.gif)
 
-
-
-## 📖 Actually Skills / Working With / Mastering
-
-![alt text](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![alt text](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![alt text](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=orm&logoColor=white)
-![alt text](https://img.shields.io/badge/React.JS-000000?style=for-the-badge&logo=react&logoColor=white)
-![alt text](https://img.shields.io/badge/ReactNative-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ## 🔍 Where You Can Find Me
 
