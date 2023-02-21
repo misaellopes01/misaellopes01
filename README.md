@@ -21,6 +21,7 @@
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![alt text](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white) 
 ![alt text](https://img.shields.io/badge/Node.Js-004E00?style=for-the-badge&logo=node.js&logoColor=white)
+![alt text](https://img.shields.io/badge/React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![alt text](https://img.shields.io/badge/PostgreSQL-121214?style=for-the-badge&logo=postgresql&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeORM-f00?style=for-the-badge&logo=typeorm&logoColor=black)
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
