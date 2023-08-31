@@ -5,14 +5,18 @@
 
 ## 📖 Actually Skills / Working With / Mastering
 
-![alt text](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![alt text](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![alt text](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=orm&logoColor=white)
+![alt text](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/React.JS-000000?style=for-the-badge&logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/ReactNative-000000?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![alt text](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![alt text](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![alt text](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![alt text](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![alt text](https://img.shields.io/badge/PrismaORM-000000?style=for-the-badge&logo=prisma&logoColor=white)
+![alt text](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 ## 🛠 Technologies
