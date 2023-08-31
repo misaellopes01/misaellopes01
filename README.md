@@ -16,6 +16,7 @@
 ![alt text](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![alt text](https://img.shields.io/badge/PrismaORM-000000?style=for-the-badge&logo=prisma&logoColor=white)
 ![alt text](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![alt text](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
 
@@ -27,11 +28,13 @@
 ![alt text](https://img.shields.io/badge/Node.Js-004E00?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![alt text](https://img.shields.io/badge/PostgreSQL-121214?style=for-the-badge&logo=postgresql&logoColor=white)
+![alt text](https://img.shields.io/badge/PrismaORM-f00?style=for-the-badge&logo=prisma&logoColor=black)
 ![alt text](https://img.shields.io/badge/TypeORM-f00?style=for-the-badge&logo=typeorm&logoColor=black)
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![alt text](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![alt text](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white) 
 ![alt text](https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/C++-0000FF?style=for-the-badge&logo=cplusplus&logoColor=white)
 
