@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Misael Lopes.<br />Developer 💻<br /> Management Informatics Engineering course finalist ⚙️
+# 👋 Hi there! I'm Software Developer 💻<br /> Management Informatics Engineering course finalist ⚙️
+
 
 ![javascript](https://user-images.githubusercontent.com/66078558/144392810-8532960d-cc45-4c22-9ec2-a1b4112b15fd.gif)
 #
