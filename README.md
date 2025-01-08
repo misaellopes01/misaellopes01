@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Software Developer 💻<br /> and Management Informatics Engineer ⚙️
+# 👋 Hi there! I'm a Software Developer 💻<br /> and Management Computer Science Engineer ⚙️
 
 
 ![javascript](https://user-images.githubusercontent.com/66078558/144392810-8532960d-cc45-4c22-9ec2-a1b4112b15fd.gif)
