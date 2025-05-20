@@ -1,12 +1,12 @@
 
 <h1 align="center">👋 Hi Dev, I'm Misael Lopes!</h1>
-<h3 align="center">Software Developer 💻 | Computer Science Management Engineer ⚙️</h3>
+<h3 align="center">Software Developer & Engineer 💻 | Computer Science Management Engineer ⚙️</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66078558/144392810-8532960d-cc45-4c22-9ec2-a1b4112b15fd.gif" width="800" />
 </p>
 
-**Fullstack Developer | Computer Science Management Engineer | Data Analyst | CTO at Awetu Technologies**
+**Fullstack Developer & Engineer | Computer Science Management Engineer | Data Analyst | CTO at Awetu Technologies**
 
 ## 👨‍💻 About Me
 
