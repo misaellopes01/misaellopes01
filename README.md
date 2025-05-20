@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate about technology, problem-solving, and strategic planning, I am a Full-Stack Software Developer and Computer Science Management Engineer with over 4 years of experience.
+Passionate about technology, problem-solving, and create solutions through technology, I am a Full-Stack Software Developer and Computer Science Management Engineer with over 4 years of experience.
 
 
 ## 🛠 Skills & Tools
@@ -60,10 +60,9 @@ Passionate about technology, problem-solving, and strategic planning, I am a Ful
 - Portuguese: Native
 - English: Advanced
 
-
 ## 📫 Contact
 
-**📍 Location:** Lobito, Benguela – Angola | Remote  
+**📍 Location:** Angola | Remote  
 **📧 Email:** mecl.ely@gmail.com | misael.lopes01@hotmail.com  
 **📞 Phone / WhatsApp:** +244 938 782 078
 
